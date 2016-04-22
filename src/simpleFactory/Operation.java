@@ -1,7 +1,7 @@
 package simpleFactory;
 
 /**
- * Created by Administrator on 2016/4/13.
+ * Created by shining.cui on 2016/4/13.
  */
 public abstract class Operation {
     private Double firstNumber;
